@@ -1,0 +1,19 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "axios": "^1.7.3",
+    "discord.js": "^14.15.3",
+    "spotify-web-api-node": "^5.0.2",
+    "ytdl-core": "^4.11.5"
+  },
+  "keywords": [],
+  "description": ""
+}
